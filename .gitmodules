@@ -1,0 +1,3 @@
+[submodule "chub/klib"]
+	path = chub/klib
+	url = https://github.com/attractivechaos/klib.git
